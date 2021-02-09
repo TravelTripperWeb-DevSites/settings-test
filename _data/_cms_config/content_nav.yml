@@ -1,0 +1,5 @@
+items:
+  - id: conversion_plus_targets
+    label: Personalization Targets  
+  - id: conversion_plus_messages
+    label: Personalization Messages    

@@ -1,0 +1,5 @@
+items:
+  - id: __environment_settings__
+  - id: booking_widget
+  - id: conversion_plus_banner
+    label: Personalization Banner
